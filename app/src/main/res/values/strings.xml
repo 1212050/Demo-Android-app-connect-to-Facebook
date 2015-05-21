@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drawer2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="app_id">472234509608678</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_getlike">Getlike</string>
+    <string name="title_activity_get_movie">GetMovie</string>
+    <string name="title_activity_get_likes">GetLikes</string>
+    <string name="title_activity_get_televisions">GetTelevisions</string>
+</resources>
